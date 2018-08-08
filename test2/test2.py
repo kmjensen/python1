@@ -6,7 +6,7 @@ Created on 8. aug. 2018
 
 class MyClass(object):
     '''
-    classdocs
+    classdocs kmj
     '''
 
 
