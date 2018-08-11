@@ -3,7 +3,7 @@ Created on 27. jul. 2018
 
 @author: Kell
 '''
-from test import MyClass
+from test2 import MyClass
 from printClass import MyPrint
 from math import sqrt
 
