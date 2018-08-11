@@ -1,12 +1,12 @@
 '''
-Created on 8. aug. 2018
+Created on 28. jul. 2018
 
 @author: Kell
 '''
 
 class MyClass(object):
     '''
-    classdocs kmj33
+    classdocs
     '''
 
 
@@ -14,4 +14,4 @@ class MyClass(object):
         '''
         Constructor
         '''
-        
+        print("Kell er god s god")
